@@ -2,8 +2,8 @@
 int main()
 {
      float g,kg;
-     printf("Waight in kilograms=");
+     printf("Weight in kilograms=");
      scanf("%f",&kg);
      g=kg*1000;
-     printf("Waight in grams=%f",g);
+     printf("Weight in grams=%f",g);
 }
